@@ -35,7 +35,7 @@
     "node": "^22.2.0"
   },
   "scripts": {
-    "build": "node src/app.js",
+    "build": "node src/App.js",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
